@@ -1,0 +1,16 @@
+<center>
+
+<br/><br/><br/>
+<img src="artelnics.png" width="400">
+<br/><br/><br/>
+
+<h2>Roberto Lopez</h2>
+
+<a href="mailto:robertolopez@artelnics.com">robertolopez@artelnics.com</a>
+
+<br/><br/><br/>
+<br/><br/><br/>
+<br/><br/><br/>
+<br/><br/><br/>
+
+</center>
