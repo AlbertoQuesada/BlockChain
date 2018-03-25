@@ -21,7 +21,5 @@ CONFIG(release, debug|release) {
 DEFINES += NDEBUG
 }
 
-SUBDIRS += common
 SUBDIRS += opennn
-#SUBDIRS += neuraldesigner
 SUBDIRS += projects

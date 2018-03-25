@@ -21,10 +21,4 @@ CONFIG(release, debug|release) {
 DEFINES += NDEBUG
 }
 
-#SUBDIRS += solidus_desk
-SUBDIRS += property_finder
-#SUBDIRS += lurmetrika
-#SUBDIRS += acciona_agua
-SUBDIRS += seat_fast_lane
 SUBDIRS += block_chain
-#SUBDIRS += platinium
