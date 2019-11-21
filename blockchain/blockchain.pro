@@ -18,4 +18,4 @@ DEFINES += NDEBUG
 
 SUBDIRS += opennn
 SUBDIRS += projects
-  
+   
